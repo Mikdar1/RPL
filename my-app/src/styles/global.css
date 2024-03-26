@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-orange-100: #ffb133;
+  --color-whitesmoke: #eee;
+  --color-darkslategray: #333;
+  --color-darkgray: #aaa;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-xl: 20px;
+}

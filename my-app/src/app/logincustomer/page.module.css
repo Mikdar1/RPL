@@ -1,0 +1,219 @@
+/* .vectorIcon {
+  position: absolute;
+  top: 444px;
+  left: 0;
+  width: 1920px;
+  height: 795px;
+}
+.groupChild {
+  position: absolute;
+  top: calc(50% - 413.5px);
+  left: calc(50% - 385.5px);
+  border-radius: 20px;
+  background-color: #333;
+  box-shadow: 0 109px 337px rgba(0, 0, 0, 0.08),
+    0 45.537593841552734px 140.79px rgba(0, 0, 0, 0.12),
+    0 24.346576690673828px 75.27px rgba(0, 0, 0, 0.14),
+    0 13.648491859436035px 42.2px rgba(0, 0, 0, 0.17),
+    0 7.2486114501953125px 22.41px rgba(0, 0, 0, 0.21),
+    0 3.0163094997406006px 9.33px rgba(0, 0, 0, 0.29);
+  width: 771px;
+  height: 827px;
+}
+.welcomeToYbarokah {
+  position: absolute;
+  top: 248px;
+  left: 150px;
+  color: #eee;
+}
+.logoYbarokah2RemovebgPreIcon {
+  position: absolute;
+  top: 66px;
+  left: 311px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.groupItem {
+  position: absolute;
+  top: 376px;
+  left: 101px;
+  border-radius: var(--br-81xl);
+  background-color: #fbaf34;
+  width: 569px;
+  height: 100px;
+}
+.loginAsStaff {
+  position: absolute;
+  top: 396px;
+  left: 249px;
+  font-weight: 600;
+}
+.groupInner {
+  position: absolute;
+  top: 544px;
+  left: 101px;
+  border-radius: var(--br-81xl);
+  background-color: #fdb033;
+  width: 569px;
+  height: 100px;
+}
+.loginAsCustomer {
+  position: absolute;
+  top: 564px;
+  left: 195px;
+  font-weight: 600;
+}
+.rectangleParent {
+  position: absolute;
+  top: calc(50% - 375.5px);
+  left: calc(50% - 386px);
+  width: 771px;
+  height: 827px;
+}
+.landingPageAwal {
+  position: relative;
+  width: 100%;
+  height: 1248px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+} */
+.vectorIcon {
+  position: absolute;
+  top: 444px;
+  left: 0;
+  width: 1920px;
+  height: 795px;
+}
+.groupChild {
+  position: absolute;
+  top: calc(50% - 275px);
+  left: calc(50% - 275px);
+  border-radius: 20px;
+  background-color: #333;
+  box-shadow: 0 109px 337px rgba(0, 0, 0, 0.08),
+    0 45.537593841552734px 140.79px rgba(0, 0, 0, 0.12),
+    0 24.346576690673828px 75.27px rgba(0, 0, 0, 0.14),
+    0 13.648491859436035px 42.2px rgba(0, 0, 0, 0.17),
+    0 7.2486114501953125px 22.41px rgba(0, 0, 0, 0.21),
+    0 3.0163094997406006px 9.33px rgba(0, 0, 0, 0.29);
+  width: 550px;
+  height: 550px;
+}
+.welcomeToYbarokah {
+  position: absolute;
+  top: 161.49px;
+  left: 0;
+  display: inline-block;
+  color: #eee;
+  font-size: 32px;
+  width: 550px;
+  height: 47.5px;
+}
+.logoYbarokah2RemovebgPreIcon {
+  position: absolute;
+  top: 19.25px;
+  left: 221.85px;
+  width: 107px;
+  height: 117.16px;
+  object-fit: cover;
+}
+.groupItem {
+  position: absolute;
+  top: 261.38px;
+  left: 72.05px;
+  border-radius: var(--br-81xl);
+  background-color: #fbaf34;
+  width: 405.9px;
+  height: 78.11px;
+  cursor: pointer;
+}
+.loginAsStaff {
+  position: absolute;
+  top: 277.37px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 550px;
+  height: 46.55px;
+}
+.groupInner {
+  position: absolute;
+  top: 392.6px;
+  left: 193px;
+  border-radius: var(--br-81xl);
+  background-color: #fdb033;
+  width: 30%;
+  height: 40%;
+}
+.loginAsCustomer {
+  position: absolute;
+  top: 408.46px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 550px;
+  height: 46.55px;
+}
+.rectangleParent {
+  position: absolute;
+  top: calc(50% - 549.5px);
+  left: calc(50% - 275px);
+  width: 550px;
+  height: 550px;
+}
+.landingPageAwal {
+  position: relative;
+  width: 100%;
+  height: 1239px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+
+.field1Child {
+  position: absolute;
+  top: 237px;
+  left: 33px;
+  border-radius: 100px;
+  width: 484px;
+  height: 96px;
+}
+.enterNumber {
+  position: absolute;
+  top: 260px;
+  left: 111px;
+  display: inline-block;
+  width: 318px;
+  color: black;
+  background-color: white;
+}
+.field1Item {
+  position: absolute;
+  top: 216px;
+  left: 99px;
+  background-color: #333;
+  width: 105px;
+  height: 34px;
+}
+.tableId {
+  position: absolute;
+  top: 223px;
+  left: 111px;
+  font-size: 20px;
+  display: inline-block;
+  width: 211px;
+  height: 36px;
+}
+.field1 {
+  position: relative;
+  width: 100%;
+  height: 149px;
+  text-align: left;
+  font-size: 30px;
+  color: #aaa;
+  font-family: Poppins;
+}

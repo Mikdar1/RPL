@@ -1,0 +1,320 @@
+.menuUtamaChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #333;
+  box-shadow: 0 109px 337px rgba(0, 0, 0, 0.08),
+    0 45.537593841552734px 140.79px rgba(0, 0, 0, 0.12),
+    0 24.346576690673828px 75.27px rgba(0, 0, 0, 0.14),
+    0 13.648491859436035px 42.2px rgba(0, 0, 0, 0.17),
+    0 7.2486114501953125px 22.41px rgba(0, 0, 0, 0.21),
+    0 3.0163094997406006px 9.33px rgba(0, 0, 0, 0.29);
+}
+.menuUtamaItem {
+  height: 49.72%;
+  width: 22.19%;
+  top: 25.1%;
+  right: 72.08%;
+  bottom: 25.18%;
+  left: 5.73%;
+  background-color: var(--color-white);
+}
+.groupChild,
+.image4Icon,
+.menuUtamaInner,
+.menuUtamaItem {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.menuUtamaInner {
+  height: 49.72%;
+  width: 22.19%;
+  top: 25.1%;
+  right: 46.56%;
+  bottom: 25.18%;
+  left: 31.25%;
+  background-color: var(--color-white);
+}
+.groupChild,
+.image4Icon {
+  top: 0;
+}
+.groupChild {
+  height: 100%;
+  width: 12.66%;
+  right: 43.67%;
+  bottom: 0;
+  left: 43.67%;
+  background-color: var(--color-white);
+}
+.image4Icon {
+  left: 1470px;
+  width: 426px;
+  height: 394px;
+  object-fit: cover;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  background-color: var(--color-white);
+}
+.groupItem {
+  width: 12.66%;
+  right: 29.11%;
+  left: 58.23%;
+  border-radius: var(--br-xl);
+}
+.groupInner {
+  right: 14.56%;
+  left: 72.79%;
+}
+.groupInner,
+.image1Icon,
+.rectangleDiv {
+  width: 12.66%;
+  border-radius: var(--br-xl);
+}
+.rectangleDiv {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 87.34%;
+  background-color: var(--color-white);
+}
+.image1Icon {
+  height: 63.96%;
+  right: 87.34%;
+  bottom: 36.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image1Icon,
+.mcdonalds {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.iconoirdollar,
+.iconoirdollar1,
+.iconoirdollar2 {
+  position: absolute;
+  height: 21.24%;
+  width: 8.98%;
+  top: 51.33%;
+  right: 91.02%;
+  bottom: 27.43%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconoirdollar1,
+.iconoirdollar2 {
+  right: 82.42%;
+  left: 8.59%;
+}
+.iconoirdollar2 {
+  right: 73.83%;
+  left: 17.19%;
+}
+.fastFoodSweets {
+  position: absolute;
+  height: 15.93%;
+  width: 100%;
+  top: 84.07%;
+  left: 0;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.hokbenParent,
+.mcdonaldsParent {
+  position: absolute;
+  height: 18.34%;
+  width: 7.61%;
+  top: 67.37%;
+  right: 91.74%;
+  bottom: 14.29%;
+  left: 0.65%;
+}
+.hokbenParent {
+  right: 77.18%;
+  left: 15.21%;
+}
+.groupChild1,
+.image2Icon {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-xl);
+}
+.image2Icon {
+  height: 63.96%;
+  width: 12.66%;
+  right: 72.79%;
+  bottom: 36.04%;
+  left: 14.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild1 {
+  height: 100%;
+  width: 54.34%;
+  right: 45.66%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.iconoirdollar6,
+.iconoirdollar7,
+.iconoirdollar8 {
+  position: absolute;
+  height: 21.24%;
+  width: 8.46%;
+  top: 51.33%;
+  right: 91.54%;
+  bottom: 27.43%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconoirdollar7,
+.iconoirdollar8 {
+  right: 83.46%;
+  left: 8.09%;
+}
+.iconoirdollar8 {
+  right: 75.37%;
+  left: 16.18%;
+}
+.mixueParent,
+.subwayParent {
+  position: absolute;
+  height: 18.34%;
+  width: 34.69%;
+  top: 67.37%;
+  right: 62.5%;
+  bottom: 14.29%;
+  left: 2.81%;
+}
+.mixueParent {
+  right: 0;
+  left: 65.31%;
+}
+.image3Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 426px;
+  height: 394px;
+  object-fit: cover;
+}
+.rectangleGroup,
+.rectangleParent {
+  position: absolute;
+  height: 100%;
+  width: 23.29%;
+  top: 0;
+  right: 47.59%;
+  bottom: 0;
+  left: 29.11%;
+}
+.rectangleParent {
+  width: 185.97%;
+  right: -85.97%;
+  left: 0;
+}
+.frameDiv {
+  position: absolute;
+  top: 311px;
+  left: 110px;
+  width: 1810px;
+  height: 616px;
+  overflow-x: auto;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+}
+.tenantFoodcourt {
+  position: absolute;
+  top: 18.72%;
+  left: 5.73%;
+}
+.logoYbarokah2RemovebgPreIcon {
+  position: absolute;
+  height: 100%;
+  width: 4.94%;
+  top: 0;
+  right: 95.06%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.status,
+.ybarokah {
+  position: absolute;
+  top: 37.78%;
+  left: 94.62%;
+}
+.ybarokah {
+  top: 21.11%;
+  left: 45.04%;
+  font-size: 40px;
+  font-family: var(--font-pt-serif-caption);
+  color: #ffb133;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 41px;
+  left: 1809px;
+  border-radius: 50%;
+  background-color: #fb8213;
+  width: 14px;
+  height: 14px;
+}
+.logoYbarokah2RemovebgPreParent {
+  position: absolute;
+  height: 7.26%;
+  width: 94.95%;
+  top: 2.02%;
+  right: 2.92%;
+  bottom: 90.72%;
+  left: 2.14%;
+}
+.mingcuterightFillIcon {
+  position: absolute;
+  top: 235px;
+  left: 1839px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.menuUtama {
+  position: relative;
+  width: 100%;
+  height: 1239px;
+  overflow: hidden;
+  background-image: url(/menu-utama@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

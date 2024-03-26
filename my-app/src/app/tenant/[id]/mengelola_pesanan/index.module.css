@@ -1,0 +1,77 @@
+.frameChild {
+  position: absolute;
+  height: 98.57%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 1.43%;
+  left: 0;
+  background-color: #333;
+  box-shadow: 0 109px 337px rgba(0, 0, 0, 0.08),
+    0 45.537593841552734px 140.79px rgba(0, 0, 0, 0.12),
+    0 24.346576690673828px 75.27px rgba(0, 0, 0, 0.14),
+    0 13.648491859436035px 42.2px rgba(0, 0, 0, 0.17),
+    0 7.2486114501953125px 22.41px rgba(0, 0, 0, 0.21),
+    0 3.0163094997406006px 9.33px rgba(0, 0, 0, 0.29);
+}
+.logoYbarokah2RemovebgPreIcon {
+  position: absolute;
+  height: 100%;
+  width: 8.86%;
+  top: 0;
+  right: 91.14%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ybarokah {
+  position: absolute;
+  top: 21.11%;
+  left: 80.81%;
+}
+.logoYbarokah2RemovebgPreParent {
+  position: absolute;
+  height: 7.16%;
+  width: 52.92%;
+  top: 1.99%;
+  right: 44.95%;
+  bottom: 90.85%;
+  left: 2.14%;
+}
+.frameItem {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  border-radius: 30px;
+  background-color: #1e1e1e;
+  width: 100%;
+  height: 1100px;
+}
+.orderStatus {
+  position: absolute;
+  top: 178px;
+  left: 65px;
+  font-family: var(--font-poppins);
+  color: #fff;
+}
+.rectangleParent {
+  position: relative;
+  width: 100%;
+  height: 1000px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: #ffb133;
+  font-family: var(--font-pt-serif-caption);
+}
+
+.buttonWithFixedPadding {
+  padding: 5px 20px;
+  ;
+}
+
+.buttonWithFixedPadding:active {
+  padding: 5px 20px;
+}
